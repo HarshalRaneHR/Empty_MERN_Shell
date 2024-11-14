@@ -29,5 +29,5 @@ npm install
 
 # Install client dependencies
 
-cd ../frontend
+cd frontend
 npm install
